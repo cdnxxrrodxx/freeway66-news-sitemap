@@ -1,0 +1,33 @@
+name: Generate Freeway66 News Sitemap
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # every day at 12:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install node-fetch@2 dotenv
+
+      - name: Generate sitemap
+        run: node index.js
+        env:
+          WEBFLOW_TOKEN: ${{ secrets.WEBFLOW_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add news-sitemap.xml
+          git commit -m "Update sitemap" || echo "No changes to commit"
+          git push
