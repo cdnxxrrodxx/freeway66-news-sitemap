@@ -2,4 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/concrete-strength-over-time</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T15:27:09.529Z</news:publication_date>
+      <news:title><![CDATA[Concrete: The Building Material That Gets Stronger With Age]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/cracker-barrels-classic-comeback</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T15:27:09.529Z</news:publication_date>
+      <news:title><![CDATA[Cracker Barrel’s Classic Comeback: How Listening to Guests Reinforced a Beloved Brand]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/currency-debasement-explained</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T15:27:09.529Z</news:publication_date>
+      <news:title><![CDATA[Prices Aren’t Going Up. The Value of Money Is Going Down.]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/silencers-myth-vs-reality</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-08T15:27:09.529Z</news:publication_date>
+      <news:title><![CDATA[The Silencer Myth: How Hollywood Rewrote the Law]]></news:title>
+    </news:news>
+  </url>
 </urlset>
