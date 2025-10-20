@@ -2,4 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/nfl-catastrophe-the-new-york-jets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T21:46:57.700Z</news:publication_date>
+      <news:title><![CDATA[NFL Catastrophe: The New York Jets]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/who-decides-future-cbdc-digital-id</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T21:46:57.700Z</news:publication_date>
+      <news:title><![CDATA[Two Futures: Who Decides — the People or the Planners?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/the-empty-shop-that-never-dies-why-some-businesses-look-like-fronts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-19T21:46:57.700Z</news:publication_date>
+      <news:title><![CDATA[The Empty Shop That Never Dies: Why Some Businesses Look Like Fronts]]></news:title>
+    </news:news>
+  </url>
 </urlset>
