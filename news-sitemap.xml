@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/news/the-last-door-knocker-rob-wolchek-and-the-modern-hall-of-shame</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T00:54:09.495Z</news:publication_date>
+      <news:title><![CDATA[The Last Door-Knocker: Rob Wolchek and the Modern Hall of Shame]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/news/argentinas-libertarian-turn-mileis-victory-and-the-renewal-of-freedom</loc>
     <news:news>
       <news:publication>
@@ -15,25 +27,13 @@
   </url>
 
   <url>
-    <loc>https://www.freeway66.com/news/nfl-catastrophe-the-new-york-jets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-26T22:29:44.507Z</news:publication_date>
-      <news:title><![CDATA[NFL Catastrophe: The New York Jets]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.freeway66.com/news/who-decides-future-cbdc-digital-id</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2025-10-27T13:12:20.942Z</news:publication_date>
+      <news:publication_date>2025-10-29T00:54:09.495Z</news:publication_date>
       <news:title><![CDATA[Two Futures: Who Decides — the People or the Planners?]]></news:title>
     </news:news>
   </url>
