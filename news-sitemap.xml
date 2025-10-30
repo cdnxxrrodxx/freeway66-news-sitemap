@@ -15,18 +15,6 @@
   </url>
 
   <url>
-    <loc>https://www.freeway66.com/news/argentinas-libertarian-turn-mileis-victory-and-the-renewal-of-freedom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-27T13:14:52.614Z</news:publication_date>
-      <news:title><![CDATA[Argentina’s Libertarian Turn: Milei’s Victory and the Renewal of Freedom]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
     <loc>https://www.freeway66.com/news/who-decides-future-cbdc-digital-id</loc>
     <news:news>
       <news:publication>
@@ -35,18 +23,6 @@
       </news:publication>
       <news:publication_date>2025-10-29T00:54:09.495Z</news:publication_date>
       <news:title><![CDATA[Two Futures: Who Decides — the People or the Planners?]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/the-empty-shop-that-never-dies-why-some-businesses-look-like-fronts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-27T13:12:20.942Z</news:publication_date>
-      <news:title><![CDATA[The Empty Shop That Never Dies: Why Some Businesses Look Like Fronts]]></news:title>
     </news:news>
   </url>
 </urlset>
