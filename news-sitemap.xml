@@ -2,4 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/day-silver-broke-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-29T17:28:24.798Z</news:publication_date>
+      <news:title><![CDATA[The Day Silver Broke the System]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/what-happened-to-las-vegas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-29T17:21:00.923Z</news:publication_date>
+      <news:title><![CDATA[What Happened to Las Vegas?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/when-spectacle-becomes-sport-the-joshua-paul-bout-exposes-boxings-crisis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-29T17:21:00.923Z</news:publication_date>
+      <news:title><![CDATA[When Spectacle Becomes Sport: The Joshua–Paul Bout Exposes Boxing’s Crisis]]></news:title>
+    </news:news>
+  </url>
 </urlset>
