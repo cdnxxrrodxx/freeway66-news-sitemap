@@ -2,4 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/kennedy-center-honors-2025-trump-broadcast-preview</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-13T14:23:44.410Z</news:publication_date>
+      <news:title><![CDATA[President Trump Hosts the Kennedy Center Honors: Why December 23 Might Be the Most Fascinating Night on TV This Year]]></news:title>
+    </news:news>
+  </url>
 </urlset>
