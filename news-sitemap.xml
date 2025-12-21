@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/after-silver-breakout-calm-repricing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-20T16:46:20.981Z</news:publication_date>
+      <news:title><![CDATA[After the Breakout: What a Calm Silver Repricing Actually Looks Like]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/day-silver-broke-system</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-20T16:55:22.970Z</news:publication_date>
+      <news:title><![CDATA[The Day Silver Broke the System]]></news:title>
+    </news:news>
+  </url>
 </urlset>
