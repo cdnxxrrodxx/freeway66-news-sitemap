@@ -2,4 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/mike-lindell-run-for-minnesota-governor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-30T20:28:02.726Z</news:publication_date>
+      <news:title><![CDATA[Minnesota Grit: Mike Lindell’s Run for Governor]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/after-silver-breakout-calm-repricing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-30T20:28:02.726Z</news:publication_date>
+      <news:title><![CDATA[After the Breakout: What a Calm Silver Repricing Actually Looks Like]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/what-happened-to-las-vegas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-30T20:28:02.726Z</news:publication_date>
+      <news:title><![CDATA[What Happened to Las Vegas?]]></news:title>
+    </news:news>
+  </url>
 </urlset>
