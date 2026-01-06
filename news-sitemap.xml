@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/news/monroe-doctrine-western-hemisphere-history</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-05T23:55:07.750Z</news:publication_date>
+      <news:title><![CDATA[The Monroe Doctrine: How a “Dormant” Idea Keeps Coming Back]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/news/mike-lindell-run-for-minnesota-governor</loc>
     <news:news>
       <news:publication>
@@ -21,7 +33,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-01-04T19:26:15.159Z</news:publication_date>
+      <news:publication_date>2026-01-05T23:45:19.524Z</news:publication_date>
       <news:title><![CDATA[What Happened to Las Vegas?]]></news:title>
     </news:news>
   </url>
