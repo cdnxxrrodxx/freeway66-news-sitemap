@@ -2,15 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/day-silver-broke-system</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T12:38:41.092Z</news:publication_date>
-      <news:title><![CDATA[The Day Silver Broke the System]]></news:title>
-    </news:news>
-  </url>
 </urlset>
