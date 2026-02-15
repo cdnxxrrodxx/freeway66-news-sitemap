@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/board-of-peace-us-global-stabilization-initiative</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T19:11:17.777Z</news:publication_date>
-      <news:title><![CDATA[The Board of Peace: A New Attempt to Make Peace Practical]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/media-migration-creators-broadcast-television-decline</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T19:11:17.777Z</news:publication_date>
-      <news:title><![CDATA[The New Broadcast Era: How Creators, Not Networks, Became the Center of Gravity]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/when-money-breaks-rules-change</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-12T19:11:17.777Z</news:publication_date>
-      <news:title><![CDATA[When Money Breaks, Rules Change]]></news:title>
-    </news:news>
-  </url>
 </urlset>
