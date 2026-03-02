@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/grok-chatgpt-2026-pitch-comparison</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-01T23:40:39.619Z</news:publication_date>
+      <news:title><![CDATA[Grok & ChatGPT: Each Makes Its Case]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/media-migration-creators-broadcast-television-decline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-01T23:40:39.619Z</news:publication_date>
+      <news:title><![CDATA[The New Broadcast Era: How Creators, Not Networks, Became the Center of Gravity]]></news:title>
+    </news:news>
+  </url>
 </urlset>
