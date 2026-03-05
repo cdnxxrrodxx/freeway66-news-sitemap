@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/could-reza-pahlavi-return-to-rule-iran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-04T16:50:04.397Z</news:publication_date>
+      <news:title><![CDATA[Could the Shah’s Son Return? Iran Faces a Historic Crossroads]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/media-migration-creators-broadcast-television-decline</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-04T16:50:04.397Z</news:publication_date>
+      <news:title><![CDATA[The New Broadcast Era: How Creators, Not Networks, Became the Center of Gravity]]></news:title>
+    </news:news>
+  </url>
 </urlset>
