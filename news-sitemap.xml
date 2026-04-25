@@ -2,27 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/russian-orthodox-church-soviet-union-survival-modern-russia-rise</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T16:23:10.267Z</news:publication_date>
-      <news:title><![CDATA[The Church That Wouldn’t Disappear]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/is-cuba-next-belief-or-reality</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T16:24:07.607Z</news:publication_date>
-      <news:title><![CDATA[Is Cuba Next?]]></news:title>
-    </news:news>
-  </url>
 </urlset>
