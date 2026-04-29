@@ -2,4 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/ai-reviews-the-father-we-never-had-book-analysis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T16:47:52.346Z</news:publication_date>
+      <news:title><![CDATA[Book Review: The Father We Never Had]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/russian-orthodox-church-soviet-union-survival-modern-russia-rise</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T16:33:31.631Z</news:publication_date>
+      <news:title><![CDATA[The Church That Wouldn’t Disappear]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/is-cuba-next-belief-or-reality</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T16:33:31.631Z</news:publication_date>
+      <news:title><![CDATA[Is Cuba Next?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/iran-conflict-oil-prices-when-will-it-end</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T16:32:44.030Z</news:publication_date>
+      <news:title><![CDATA[When Will This End? Iran, Oil, and the Waiting World]]></news:title>
+    </news:news>
+  </url>
 </urlset>
