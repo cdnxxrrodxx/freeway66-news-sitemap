@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/news/virginia-city-the-silver-city-that-refused-to-die</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-29T20:21:05.681Z</news:publication_date>
+      <news:title><![CDATA[Virginia City and the Rise of America’s Silver Empire]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/news/nagatitan-chaiyaphumensis-thailand-last-titan-dinosaur-discovery</loc>
     <news:news>
       <news:publication>
@@ -11,6 +23,18 @@
       </news:publication>
       <news:publication_date>2026-05-28T17:15:29.654Z</news:publication_date>
       <news:title><![CDATA[The Last Titan of Southeast Asia]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/history-of-gold-humanitys-obsession-with-money-and-power</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-29T20:19:20.568Z</news:publication_date>
+      <news:title><![CDATA[The History of Gold: Humanity’s Shiny Obsession and the Evolution of Money]]></news:title>
     </news:news>
   </url>
 </urlset>
