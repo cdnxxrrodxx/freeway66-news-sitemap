@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/floridas-five-year-transformation-americas-growth-story</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-25T17:57:35.581Z</news:publication_date>
-      <news:title><![CDATA[Florida's Five-Year Transformation: How the Sunshine State Became One of America's Biggest Success Stories]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/the-52-card-deck-the-500-year-old-technology-that-refuses-to-die</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-25T17:57:35.581Z</news:publication_date>
-      <news:title><![CDATA[The 52-Card Deck: The 500-Year-Old Technology That Refuses to Die]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/spacex-ipo-elon-musk-public-company-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-25T17:57:35.581Z</news:publication_date>
-      <news:title><![CDATA[SpaceX Goes Public as Elon Musk's Biggest Bet Yet Pays Off]]></news:title>
-    </news:news>
-  </url>
 </urlset>
