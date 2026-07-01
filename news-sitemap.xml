@@ -2,15 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/mystery-rising-farlain-lake-ontario</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-29T04:32:43.168Z</news:publication_date>
-      <news:title><![CDATA[The Mystery of Canada's Rising Lake]]></news:title>
-    </news:news>
-  </url>
 </urlset>
