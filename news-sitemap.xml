@@ -2,4 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/mystery-rising-farlain-lake-ontario</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T20:27:35.574Z</news:publication_date>
+      <news:title><![CDATA[The Mystery of Canada's Rising Lake]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/floridas-five-year-transformation-americas-growth-story</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T20:27:35.574Z</news:publication_date>
+      <news:title><![CDATA[Florida's Five-Year Transformation: How the Sunshine State Became One of America's Biggest Success Stories]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/the-52-card-deck-the-500-year-old-technology-that-refuses-to-die</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T20:27:35.574Z</news:publication_date>
+      <news:title><![CDATA[The 52-Card Deck: The 500-Year-Old Technology That Refuses to Die]]></news:title>
+    </news:news>
+  </url>
 </urlset>
