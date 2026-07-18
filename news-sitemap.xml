@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/permanent-daylight-saving-time-house-passes-bill</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T16:25:00.208Z</news:publication_date>
-      <news:title><![CDATA[Permanent Daylight Saving Time Moves One Step Closer]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/western-democracies-digital-freedom-divide</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T16:25:00.208Z</news:publication_date>
-      <news:title><![CDATA[The Great Divergence: Why the West Is Splitting Over Freedom, Information and Government Power]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/spacex-ipo-elon-musk-public-company-feature</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-15T16:25:00.208Z</news:publication_date>
-      <news:title><![CDATA[SpaceX Goes Public as Elon Musk's Biggest Bet Yet Pays Off]]></news:title>
-    </news:news>
-  </url>
 </urlset>
