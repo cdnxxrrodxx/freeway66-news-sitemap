@@ -3,26 +3,38 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/news/how-sugar-free-soft-drinks-finally-won-over-consumers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-29T02:22:51.002Z</news:publication_date>
+      <news:title><![CDATA[How Sugar-Free Soft Drinks Finally Won Over Consumers]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/news/you-get-what-you-pay-for-is-it-true</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-26T22:12:13.127Z</news:publication_date>
+      <news:publication_date>2026-07-29T02:23:04.533Z</news:publication_date>
       <news:title><![CDATA[You Get What You Pay For: Is the Old Saying Still True?]]></news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.freeway66.com/news/permanent-daylight-saving-time-house-passes-bill</loc>
+    <loc>https://www.freeway66.com/news/western-democracies-digital-freedom-divide</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-07-26T22:12:24.265Z</news:publication_date>
-      <news:title><![CDATA[Permanent Daylight Saving Time Moves One Step Closer]]></news:title>
+      <news:publication_date>2026-07-29T02:23:25.908Z</news:publication_date>
+      <news:title><![CDATA[The Great Divergence: Why the West Is Splitting Over Freedom, Information and Government Power]]></news:title>
     </news:news>
   </url>
 </urlset>
