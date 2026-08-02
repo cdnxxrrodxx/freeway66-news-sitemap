@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/who-are-the-houthis-explained</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T17:49:05.761Z</news:publication_date>
+      <news:title><![CDATA[From Yemen to the Red Sea: Who Are the Houthis?]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/how-sugar-free-soft-drinks-finally-won-over-consumers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-01T17:49:14.610Z</news:publication_date>
+      <news:title><![CDATA[How Sugar-Free Soft Drinks Finally Won Over Consumers]]></news:title>
+    </news:news>
+  </url>
 </urlset>
