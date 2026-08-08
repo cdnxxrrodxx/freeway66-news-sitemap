@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/tony-robbins-effect-personal-development-success-mindset</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:24:18.202Z</news:publication_date>
-      <news:title><![CDATA[The Tony Robbins Effect: Why the Belief in a Better Life Still Matters]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/bermuda-triangle-mystery-history-facts</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:24:31.073Z</news:publication_date>
-      <news:title><![CDATA[The Bermuda Triangle: How the Modern Mystery Captured Our Imagination]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/you-get-what-you-pay-for-is-it-true</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-05T15:24:44.522Z</news:publication_date>
-      <news:title><![CDATA[You Get What You Pay For: Is the Old Saying Still True?]]></news:title>
-    </news:news>
-  </url>
 </urlset>
