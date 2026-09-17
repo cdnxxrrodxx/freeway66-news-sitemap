@@ -2,39 +2,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-  <url>
-    <loc>https://www.freeway66.com/news/ai-control-humanity-warning-jacob-coxon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T14:29:59.814Z</news:publication_date>
-      <news:title><![CDATA[When the Machine Stops Asking Permission: The Mounting Concern Over AI Control]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/canada-snowbirds-grounded-tutor-jets-retirement</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T14:30:43.331Z</news:publication_date>
-      <news:title><![CDATA[Canada Didn’t Replace the Snowbirds. It Simply Let Them Disappear]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/nuclear-missile-attack-first-48-hours</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T14:30:30.063Z</news:publication_date>
-      <news:title><![CDATA[Could You Survive a Nuclear Attack?]]></news:title>
-    </news:news>
-  </url>
 </urlset>
