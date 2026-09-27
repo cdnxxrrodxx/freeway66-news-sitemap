@@ -121,4 +121,64 @@
       <news:title><![CDATA[The Great Divergence: Why the West Is Splitting Over Freedom, Information and Government Power]]></news:title>
     </news:news>
   </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/when-money-breaks-rules-change</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T16:18:41.900Z</news:publication_date>
+      <news:title><![CDATA[When Money Breaks, Rules Change]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/argentinas-libertarian-turn-mileis-victory-and-the-renewal-of-freedom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T16:18:41.900Z</news:publication_date>
+      <news:title><![CDATA[Argentina’s Libertarian Turn: Milei’s Victory and the Renewal of Freedom]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/what-is-openai-a-straightforward-guide-to-the-company-behind-chatgpt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T16:25:40.678Z</news:publication_date>
+      <news:title><![CDATA[What Is OpenAI? A Straightforward Guide to the Company Behind ChatGPT]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/the-hovercraft-from-innovation-to-niche-utility</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T16:25:40.678Z</news:publication_date>
+      <news:title><![CDATA[The Hovercraft: From Innovation to Niche Utility]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/ai-revolution-deepseek-changes-everything</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-27T16:18:41.900Z</news:publication_date>
+      <news:title><![CDATA[DeepSeek AI Sends Shockwaves Through Wallstreet]]></news:title>
+    </news:news>
+  </url>
 </urlset>
