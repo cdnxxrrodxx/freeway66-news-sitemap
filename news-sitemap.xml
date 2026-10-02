@@ -3,13 +3,25 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/news/forgotten-time-travel-movies-worth-watching</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-02T11:17:30.179Z</news:publication_date>
+      <news:title><![CDATA[10 Forgotten Time-Travel Movies That Deserve Another Look]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/news/saudi-arabia-two-strait-oil-crisis</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T17:03:10.037Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Saudi Arabia’s Two-Strait Oil Nightmare Is Taking Shape]]></news:title>
     </news:news>
   </url>
@@ -21,7 +33,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T17:03:19.497Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Canada Didn’t Replace the Snowbirds. It Simply Let Them Disappear]]></news:title>
     </news:news>
   </url>
@@ -33,7 +45,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.260Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[After the Breakout: What a Calm Silver Repricing Actually Looks Like]]></news:title>
     </news:news>
   </url>
@@ -45,7 +57,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.727Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Day Silver Broke the System]]></news:title>
     </news:news>
   </url>
@@ -57,7 +69,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.489Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[What Happened to Las Vegas?]]></news:title>
     </news:news>
   </url>
@@ -69,7 +81,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.578Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[When Spectacle Becomes Sport: The Joshua–Paul Bout Exposes Boxing’s Crisis]]></news:title>
     </news:news>
   </url>
@@ -81,7 +93,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.284Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Mexico’s Moment of Pressure: Populism, Protest, and a Nation Caught Between Eras]]></news:title>
     </news:news>
   </url>
@@ -93,7 +105,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.731Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Last Door-Knocker: Rob Wolchek and the Modern Hall of Shame]]></news:title>
     </news:news>
   </url>
@@ -105,7 +117,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:42:24.782Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[NFL Catastrophe: The New York Jets]]></news:title>
     </news:news>
   </url>
@@ -117,7 +129,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.270Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Two Futures: Who Decides — the People or the Planners?]]></news:title>
     </news:news>
   </url>
@@ -129,7 +141,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.428Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Empty Shop That Never Dies: Why Some Businesses Look Like Fronts]]></news:title>
     </news:news>
   </url>
@@ -141,7 +153,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.466Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Concrete: The Building Material That Gets Stronger With Age]]></news:title>
     </news:news>
   </url>
@@ -153,7 +165,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.729Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Cracker Barrel’s Classic Comeback: How Listening to Guests Reinforced a Beloved Brand]]></news:title>
     </news:news>
   </url>
@@ -165,7 +177,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.722Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Prices Aren’t Going Up. The Value of Money Is Going Down.]]></news:title>
     </news:news>
   </url>
@@ -177,7 +189,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.487Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Silencer Myth: How Hollywood Rewrote the Law]]></news:title>
     </news:news>
   </url>
@@ -189,7 +201,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.431Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[People vs. The Fed: Who Should Decide Interest Rates?]]></news:title>
     </news:news>
   </url>
@@ -201,7 +213,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.785Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Canada’s State Broadcaster Faces Scandal Over Political Bias]]></news:title>
     </news:news>
   </url>
@@ -213,7 +225,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-09-30T12:41:17.539Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Heavyweight Comeback: Usyk vs Dubois and Boxing’s Global Reawakening]]></news:title>
     </news:news>
   </url>
@@ -225,7 +237,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.754Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Vinegar: Humanity's Sharpest Tool]]></news:title>
     </news:news>
   </url>
@@ -237,7 +249,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.782Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Vault That Can't Be Opened]]></news:title>
     </news:news>
   </url>
@@ -249,7 +261,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.681Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The View from the Shoulder: Watching the World from Just Outside the Narrative Lane]]></news:title>
     </news:news>
   </url>
@@ -261,7 +273,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.685Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[No Conspiracy, Just Convergence: How Trust Was Quietly Rewired]]></news:title>
     </news:news>
   </url>
@@ -273,7 +285,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.661Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Respect Over Regime Change: Trump’s World-Shaping Pivot ]]></news:title>
     </news:news>
   </url>
@@ -285,7 +297,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.842Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Europe at a Crossroads: Can the EU Survive Its Own Complexity?]]></news:title>
     </news:news>
   </url>
@@ -297,7 +309,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.563Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Belize: The Secret Is Out – A Modern Caribbean Success Story]]></news:title>
     </news:news>
   </url>
@@ -309,7 +321,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.588Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[A Sovereign Returns: King Charles to Reaffirm Canada’s Constitutional Spirit]]></news:title>
     </news:news>
   </url>
@@ -321,7 +333,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.682Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Ukraine 2025: The Endgame Approaches]]></news:title>
     </news:news>
   </url>
@@ -333,7 +345,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.564Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Mexico 2025: A New Frontier]]></news:title>
     </news:news>
   </url>
@@ -345,7 +357,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.589Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[How Modern Empires End: Lessons from the British Exit That Was Never Declared]]></news:title>
     </news:news>
   </url>
@@ -357,7 +369,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:57:15.887Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Gold in the Basement: Following the Coldest Teams in Sports]]></news:title>
     </news:news>
   </url>
@@ -369,7 +381,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.840Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Ohio Moment: Vivek Ramaswamy Brings a Plan, and a Presence]]></news:title>
     </news:news>
   </url>
@@ -381,7 +393,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T00:56:59.784Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Utah Jazz Crumble Away in Defeat]]></news:title>
     </news:news>
   </url>
@@ -393,7 +405,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:20.775Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Inside the 2027 Slumlord Convention: Profits, Paranoia, and Particle Board]]></news:title>
     </news:news>
   </url>
@@ -405,7 +417,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.186Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Renewed Search for Malaysia Airlines Flight MH370​]]></news:title>
     </news:news>
   </url>
@@ -417,7 +429,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.095Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Rise of Robert F. Kennedy Jr.: From Outsider to Health Secretary]]></news:title>
     </news:news>
   </url>
@@ -429,7 +441,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:20.973Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Silver’s Moment: Why the Market is Primed for a Major Shift]]></news:title>
     </news:news>
   </url>
@@ -441,7 +453,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.184Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[The Top 10 Disaster Movies of the 1970s: Hollywood’s Most Chaotic Decade]]></news:title>
     </news:news>
   </url>
@@ -453,7 +465,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.183Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Trump's Plan to Audit Fort Knox: A Deep Dive Into the U.S. Gold Reserves]]></news:title>
     </news:news>
   </url>
@@ -465,7 +477,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:20.976Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Pantry & Freezer Stocking 101: The Smartest Way to Cut Grocery Bills]]></news:title>
     </news:news>
   </url>
@@ -477,7 +489,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:20.924Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[That Wasn’t Me: The Rise and Fall of Danny Rapp]]></news:title>
     </news:news>
   </url>
@@ -489,7 +501,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:20.778Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Fixing Government Corruption]]></news:title>
     </news:news>
   </url>
@@ -501,7 +513,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.094Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Political Jargon Decoded: Hacks, Cronies, and Power Players]]></news:title>
     </news:news>
   </url>
@@ -513,7 +525,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.098Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Armenia at the Crossroads: Yerevan’s Geopolitical Future]]></news:title>
     </news:news>
   </url>
@@ -525,7 +537,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:20.927Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[CBD: Ancient Remedy Turned Modern Wellness Powerhouse]]></news:title>
     </news:news>
   </url>
@@ -537,7 +549,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.238Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Cryptocurrency: Risks, Rewards, and the Road Ahead]]></news:title>
     </news:news>
   </url>
@@ -549,7 +561,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T11:30:21.240Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Why Buying an Ugly Car That Runs Great is the Smartest Financial Move You Can Make]]></news:title>
     </news:news>
   </url>
@@ -561,7 +573,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.132Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Bond on Hold: Why 007’s Next Mission is Delayed]]></news:title>
     </news:news>
   </url>
@@ -573,7 +585,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.127Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Boom Supersonic XB-1 Breaks Sound Barrier]]></news:title>
     </news:news>
   </url>
@@ -585,7 +597,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.134Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Atlantic City: From Seaside Glamour to Struggles]]></news:title>
     </news:news>
   </url>
@@ -597,7 +609,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.393Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Syria at a Crossroads]]></news:title>
     </news:news>
   </url>
@@ -609,7 +621,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.459Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[WEF: Controlling AI Information]]></news:title>
     </news:news>
   </url>
@@ -621,7 +633,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:52.943Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Smart Glasses: Options and Challenges]]></news:title>
     </news:news>
   </url>
@@ -633,7 +645,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.390Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[NBA: Washington Wizards Extend Losing Streak]]></news:title>
     </news:news>
   </url>
@@ -645,7 +657,7 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.394Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[US Rejects Central Bank Digital Currency]]></news:title>
     </news:news>
   </url>
@@ -657,20 +669,8 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.136Z</news:publication_date>
+      <news:publication_date>2026-10-02T01:56:37.439Z</news:publication_date>
       <news:title><![CDATA[Nord Stream Sabotage: Questions, Narratives, and Global Implications]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/life-behind-bars-at-alcatraz</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-01T14:50:28.398Z</news:publication_date>
-      <news:title><![CDATA[Life Behind Bars at Alcatraz]]></news:title>
     </news:news>
   </url>
 </urlset>
