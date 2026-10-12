@@ -3,13 +3,37 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/news/what-does-a-house-cost-in-gold</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T18:02:30.447Z</news:publication_date>
+      <news:title><![CDATA[What Does a House Cost in Gold? The Price of Everyday Life]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/why-human-progress-accelerated</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-12T17:12:59.209Z</news:publication_date>
+      <news:title><![CDATA[One Lifetime, Another World: Why Progress Accelerated]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/news/kitkat-heist-stolen-food-business</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-10T12:03:04.825Z</news:publication_date>
+      <news:publication_date>2026-10-12T17:12:59.234Z</news:publication_date>
       <news:title><![CDATA[The KitKat Heist: Inside the Business of Stolen Food]]></news:title>
     </news:news>
   </url>
@@ -21,20 +45,8 @@
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-10-10T12:03:04.825Z</news:publication_date>
+      <news:publication_date>2026-10-12T18:02:30.402Z</news:publication_date>
       <news:title><![CDATA[The Nice Bank Heist: Albert Spaggiari’s Escape and the Missing Fortune]]></news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/news/ai-control-humanity-warning-jacob-coxon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-10T12:03:04.825Z</news:publication_date>
-      <news:title><![CDATA[When the Machine Stops Asking Permission: The Mounting Concern Over AI Control]]></news:title>
     </news:news>
   </url>
 </urlset>
