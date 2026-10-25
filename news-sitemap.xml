@@ -2,4 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/news/catch-me-if-you-can-frank-abagnale-true-story</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T02:32:58.648Z</news:publication_date>
+      <news:title><![CDATA[Catch Me If You Can: The Story Behind the Story]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/what-does-a-house-cost-in-gold</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T02:31:39.431Z</news:publication_date>
+      <news:title><![CDATA[What Does a House Cost in Gold? The Price of Everyday Life]]></news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/news/why-human-progress-accelerated</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T02:31:39.430Z</news:publication_date>
+      <news:title><![CDATA[One Lifetime, Another World: Why Progress Accelerated]]></news:title>
+    </news:news>
+  </url>
 </urlset>
