@@ -6,7 +6,7 @@ const now = Date.parse('2026-10-30T12:00:00Z');
 function article(date, extra = {}) {
   return { id: 'example', lastPublished: new Date(now).toISOString(),
     fieldData: { name: 'News & updates ]]>', slug: 'example',
-      'custom-published-date': date }, ...extra };
+      'published-date': date }, ...extra };
 }
 
 test('custom date controls selection, including future and 48-hour boundaries', () => {
@@ -30,7 +30,7 @@ test('unpublished, archived and shareable draft articles are excluded before dat
 
 test('missing or invalid custom date fails with field-key diagnostics', () => {
   for (const date of [undefined, null, '', 'invalid']) {
-    assert.throws(() => filterRecentItems([article(date)], now), /custom-published-date.*Available field keys/);
+    assert.throws(() => filterRecentItems([article(date)], now), /published-date.*Available field keys/);
   }
 });
 

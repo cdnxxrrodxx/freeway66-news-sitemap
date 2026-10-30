@@ -10,8 +10,8 @@ Never commit API tokens.
 
 Run tests with `node --test`; generate with `node index.js`.
 
-The assumed date field API slug is `custom-published-date` (not yet verified
-against the client's live API). It controls both the 48-hour selection window
+The date field API slug is `published-date`, observed in the live workflow's
+available field keys. It controls both the 48-hour selection window
 and the XML publication date. Future dates, drafts, archived items, and items
 whose `shareable-draft` field is true are excluded. Titles use the CMS name.
 

@@ -6,8 +6,8 @@ const BASE_URL = 'https://www.freeway66.com/news/';
 const SITEMAP_FILE = 'news-sitemap.xml';
 const SITE_NAME = 'Freeway66';
 const LANGUAGE = 'en';
-// Confirm this API slug on the first live run.
-const DATE_FIELD = 'custom-published-date';
+// Freeway66 API field key observed in the live workflow response.
+const DATE_FIELD = 'published-date';
 
 async function fetchItems(fetchImpl = fetch) {
   const items = [];
