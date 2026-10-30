@@ -1,7 +1,4 @@
-import fetch from 'node-fetch';
-import fs from 'fs/promises';
-import { config } from 'dotenv';
-config();
+const fs = require('node:fs/promises');
 
 const API_TOKEN = process.env.WEBFLOW_TOKEN;
 const COLLECTION_ID = '677c5483872e84e4fa358f56';
@@ -9,50 +6,74 @@ const BASE_URL = 'https://www.freeway66.com/news/';
 const SITEMAP_FILE = 'news-sitemap.xml';
 const SITE_NAME = 'Freeway66';
 const LANGUAGE = 'en';
+// Confirm this API slug on the first live run.
+const DATE_FIELD = 'custom-published-date';
 
-async function fetchItems() {
-  const response = await fetch(`https://api.webflow.com/v2/collections/${COLLECTION_ID}/items`, {
-    headers: {
-      Authorization: `Bearer ${API_TOKEN}`,
-      'accept-version': '1.0.0',
-    },
-  });
+async function fetchItems(fetchImpl = fetch) {
+  const items = [];
+  const limit = 100;
+  let offset = 0;
+  while (true) {
+    const response = await fetchImpl(`https://api.webflow.com/v2/collections/${COLLECTION_ID}/items/live?limit=${limit}&offset=${offset}`, {
+      headers: {
+        Authorization: `Bearer ${API_TOKEN}`,
+        Accept: 'application/json',
+      },
+    });
 
-  const resJson = await response.json();
-  if (!resJson.items) {
-    console.error('❌ "items" is missing in the API response. Exiting...');
-    console.log(JSON.stringify(resJson, null, 2));
-    process.exit(1);
+    if (!response.ok) {
+      throw new Error(`Webflow API request failed with status ${response.status}`);
+    }
+    const resJson = await response.json();
+    if (!Array.isArray(resJson.items)) {
+      throw new Error('Webflow response is missing an items array.');
+    }
+    items.push(...resJson.items);
+    const total = resJson.pagination?.total;
+    if (resJson.items.length === 0 ||
+        (Number.isFinite(total) && items.length >= total) ||
+        (!Number.isFinite(total) && resJson.items.length < limit)) break;
+    offset += resJson.items.length;
   }
-
-  return resJson.items;
+  return items;
 }
 
-function filterRecentItems(items) {
-  const now = new Date();
-  return items.filter((item) => {
-    const pubDate = new Date(item.lastPublished);
-    const ageHours = (now - pubDate) / (1000 * 60 * 60);
-    return ageHours <= 48;
-  });
+function filterRecentItems(items, now = Date.now()) {
+  const cutoff = now - 48 * 60 * 60 * 1000;
+  return items.filter(item => !item.isDraft && !item.isArchived &&
+    item.fieldData?.['shareable-draft'] !== true).map(item => {
+    const value = item.fieldData?.[DATE_FIELD];
+    const publishedAt = typeof value === 'string' && value.trim() ? Date.parse(value) : NaN;
+    if (!Number.isFinite(publishedAt)) {
+      const keys = Object.keys(item.fieldData || {}).join(', ');
+      throw new Error(`Missing or invalid "${DATE_FIELD}" for item ${item.id}. Available field keys: ${keys}. Confirm the API slug and populate dates on all published articles.`);
+    }
+    return { item, publishedAt, pubDate: new Date(publishedAt).toISOString() };
+  }).filter(({ publishedAt }) => publishedAt > cutoff && publishedAt <= now);
+}
+
+function escapeXml(value) {
+  return String(value).replace(/[<>&"']/g, character => ({
+    '<': '&lt;', '>': '&gt;', '&': '&amp;', '"': '&quot;', "'": '&apos;'
+  })[character]);
 }
 
 function generateSitemap(items) {
-  const entries = items.map((item) => {
-    const slug = item.fieldData?.slug || 'undefined';
+  const entries = items.map(({ item, pubDate }) => {
+    const slug = item.fieldData?.slug;
+    if (!slug) throw new Error(`Missing slug for Webflow item ${item.id}`);
     const title = item.fieldData?.name || 'Untitled Article';
-    const pubDate = item.lastPublished;
 
     return `
   <url>
-    <loc>${BASE_URL}${slug}</loc>
+    <loc>${escapeXml(BASE_URL + slug)}</loc>
     <news:news>
       <news:publication>
         <news:name>${SITE_NAME}</news:name>
         <news:language>${LANGUAGE}</news:language>
       </news:publication>
       <news:publication_date>${pubDate}</news:publication_date>
-      <news:title><![CDATA[${title}]]></news:title>
+      <news:title>${escapeXml(title)}</news:title>
     </news:news>
   </url>`;
   });
@@ -65,6 +86,7 @@ ${entries.join('\n')}
 }
 
 async function main() {
+  if (!API_TOKEN) throw new Error('WEBFLOW_TOKEN is required.');
   const items = await fetchItems();
   const recentItems = filterRecentItems(items);
   const sitemap = generateSitemap(recentItems);
@@ -72,6 +94,9 @@ async function main() {
   console.log(`✅ Sitemap generated with ${recentItems.length} recent items`);
 }
 
-main().catch((err) => {
+if (require.main === module) main().catch((err) => {
   console.error('Error generating sitemap:', err);
+  process.exitCode = 1;
 });
+
+module.exports = { fetchItems, filterRecentItems, generateSitemap };
