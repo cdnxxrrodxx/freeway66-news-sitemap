@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { fetchItems, filterRecentItems, generateSitemap } = require('./index');
+const { fetchItems, filterRecentItems, generateSitemap, collectRecentItems, resolveDateField, COLLECTIONS } = require('./index');
 
 const now = Date.parse('2026-10-30T12:00:00Z');
 function article(date, extra = {}) {
@@ -58,4 +58,48 @@ test('live API pagination retrieves every page', async () => {
 test('API failures and malformed payloads fail the run', async () => {
   await assert.rejects(fetchItems(async () => ({ ok: false, status: 401 })), /401/);
   await assert.rejects(fetchItems(async () => ({ ok: true, json: async () => ({}) })), /items array/);
+});
+
+test('both collections use their own paths and date fields, including pagination', async () => {
+  const urls = [];
+  const rows = await collectRecentItems(async url => {
+    urls.push(url);
+    const trending = url.includes(COLLECTIONS[1].id);
+    if (!url.includes('/items/live')) return { ok: true, json: async () => ({
+      fields: [{ displayName: 'Custom Published Date', type: 'DateTime', slug: 'client-date' }]
+    }) };
+    const secondPage = url.includes('offset=1');
+    const item = article('2026-10-29T12:00:00Z');
+    if (trending) item.fieldData = { name: 'Trending story', slug: 'example',
+      'client-date': secondPage ? '2026-10-20T12:00:00Z' : '2026-10-30T10:00:00Z' };
+    return { ok: true, json: async () => ({ items: [item], pagination: { total: trending ? 2 : 1 } }) };
+  }, now);
+  const xml = generateSitemap(rows);
+  assert.equal(rows.length, 2);
+  assert.match(xml, /https:\/\/www.freeway66.com\/news\/example/);
+  assert.match(xml, /https:\/\/www.freeway66.com\/trending-news\/example/);
+  assert.match(xml, /2026-10-30T10:00:00.000Z/);
+  assert.ok(urls.some(url => url.includes(COLLECTIONS[1].id) && url.includes('offset=1')));
+});
+
+test('Trending News schema errors fail instead of guessing a date field', async () => {
+  for (const fields of [[], [{ displayName: 'Custom Published Date', type: 'PlainText', slug: 'date' }]]) {
+    await assert.rejects(resolveDateField(COLLECTIONS[1], async () => ({
+      ok: true, json: async () => ({ fields })
+    })), /expected one DateTime field/);
+  }
+  await assert.rejects(resolveDateField(COLLECTIONS[1], async () => ({ ok: false, status: 403 })), /403/);
+});
+
+test('failure in the second collection prevents a partial combined result', async () => {
+  await assert.rejects(collectRecentItems(async url => {
+    if (url.includes(COLLECTIONS[1].id)) return { ok: false, status: 403 };
+    return { ok: true, json: async () => ({ items: [article('2026-10-29T12:00:00Z')] }) };
+  }, now), /Trending News.*403/);
+});
+
+test('news sitemap accepts 1,000 stories and rejects overflow', () => {
+  const row = filterRecentItems([article('2026-10-29T12:00:00Z')], now)[0];
+  assert.equal((generateSitemap(Array(1000).fill(row)).match(/<url>/g) || []).length, 1000);
+  assert.throws(() => generateSitemap(Array(1001).fill(row)), /More than 1,000/);
 });
