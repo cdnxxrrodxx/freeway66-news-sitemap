@@ -2,4 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.freeway66.com/trending-news/paraguay-ueno-bank-crisis-depositors</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-05T12:53:32.669Z</news:publication_date>
+      <news:title>Paraguay Takes Control of Ueno Bank as Customers Await Access to Funds</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/trending-news/us-midterm-results-2026-democrats-house-senate</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T12:34:12.004Z</news:publication_date>
+      <news:title>Democrats Win House and Senate in 2026 US Midterms</news:title>
+    </news:news>
+  </url>
 </urlset>
