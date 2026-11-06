@@ -3,6 +3,54 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/news/what-really-happened-wild-west-saloon</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T15:28:42.993Z</news:publication_date>
+      <news:title>What Really Happened Inside a Wild West Saloon?</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/trending-news/2800-year-old-siberian-tomb-ancient-cannabis-use</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T16:24:30.710Z</news:publication_date>
+      <news:title>A 2,800-Year-Old Tomb Offers Clues to Ancient Cannabis Use</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/trending-news/nasa-swift-telescope-reentry-gamma-ray-bursts</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T14:04:20.044Z</news:publication_date>
+      <news:title>NASA’s Swift Telescope Re-Enters Earth’s Atmosphere After Nearly 22 Years</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/trending-news/paraguay-pena-impeachment-ueno-bank-collapse</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:47:52.132Z</news:publication_date>
+      <news:title>Paraguay’s Peña Faces Impeachment Trial After Ueno Bank Collapse</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/trending-news/paraguay-ueno-bank-crisis-depositors</loc>
     <news:news>
       <news:publication>
@@ -11,18 +59,6 @@
       </news:publication>
       <news:publication_date>2026-11-05T12:53:32.669Z</news:publication_date>
       <news:title>Paraguay Takes Control of Ueno Bank as Customers Await Access to Funds</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/trending-news/us-midterm-results-2026-democrats-house-senate</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T12:34:12.004Z</news:publication_date>
-      <news:title>Democrats Win House and Senate in 2026 US Midterms</news:title>
     </news:news>
   </url>
 </urlset>
