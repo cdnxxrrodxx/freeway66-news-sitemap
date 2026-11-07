@@ -15,6 +15,18 @@
   </url>
 
   <url>
+    <loc>https://www.freeway66.com/trending-news/amsterdam-microsoft-data-centre-protest</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T14:51:26.496Z</news:publication_date>
+      <news:title>Protesters Enter Microsoft Data Centre Site in Amsterdam</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/trending-news/2800-year-old-siberian-tomb-ancient-cannabis-use</loc>
     <news:news>
       <news:publication>
@@ -47,18 +59,6 @@
       </news:publication>
       <news:publication_date>2026-11-06T13:47:52.132Z</news:publication_date>
       <news:title>Paraguay’s Peña Faces Impeachment Trial After Ueno Bank Collapse</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.freeway66.com/trending-news/paraguay-ueno-bank-crisis-depositors</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Freeway66</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T12:53:32.669Z</news:publication_date>
-      <news:title>Paraguay Takes Control of Ueno Bank as Customers Await Access to Funds</news:title>
     </news:news>
   </url>
 </urlset>
