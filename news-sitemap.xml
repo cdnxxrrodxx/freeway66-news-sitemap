@@ -3,14 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.freeway66.com/trending-news/amsterdam-microsoft-data-centre-protest</loc>
+    <loc>https://www.freeway66.com/news/bala-hissar-kabul-fortress-restoration</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-07T14:51:26.496Z</news:publication_date>
-      <news:title>Protesters Enter Microsoft Data Centre Site in Amsterdam</news:title>
+      <news:publication_date>2026-11-09T12:36:47.980Z</news:publication_date>
+      <news:title>Bala Hissar: Kabul’s Fortress Begins a New Chapter</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.freeway66.com/trending-news/ibm-quantum-computer-chicago-hyde-park-labs</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T12:43:25.452Z</news:publication_date>
+      <news:title>Chicago’s New Quantum Computer Is Working Behind a Street-Level Window</news:title>
     </news:news>
   </url>
 </urlset>
