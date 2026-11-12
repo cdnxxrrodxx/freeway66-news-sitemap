@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.freeway66.com/trending-news/spain-housing-strike-madrid-rents-election</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Freeway66</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T16:00:43.011Z</news:publication_date>
+      <news:title>Spain’s Housing Strike Brings Workers and Renters Together</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.freeway66.com/trending-news/paraguay-pena-vault-empty-ueno-bank-investigation</loc>
     <news:news>
       <news:publication>
