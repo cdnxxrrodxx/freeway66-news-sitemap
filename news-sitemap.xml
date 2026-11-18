@@ -3,26 +3,26 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
-    <loc>https://www.freeway66.com/trending-news/pompeii-cabinet-personal-treasures-vesuvius-2026</loc>
+    <loc>https://www.freeway66.com/trending-news/saudi-arabia-hali-mysterious-stone-circles-2026</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T19:00:00.000Z</news:publication_date>
-      <news:title>Pompeii Cabinet Reveals a Household’s Personal Treasures</news:title>
+      <news:publication_date>2026-11-17T12:00:00.000Z</news:publication_date>
+      <news:title>Mysterious Stone Circles in Saudi Arabia Raise Questions About Their Origins</news:title>
     </news:news>
   </url>
 
   <url>
-    <loc>https://www.freeway66.com/trending-news/sudan-buried-cathedral-medieval-nubia-2026</loc>
+    <loc>https://www.freeway66.com/trending-news/hera-spacecraft-nasa-asteroid-impact-investigation-2026</loc>
     <news:news>
       <news:publication>
         <news:name>Freeway66</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-16T18:00:00.000Z</news:publication_date>
-      <news:title>Sudan’s Buried Cathedral Reveals Medieval Nubia</news:title>
+      <news:publication_date>2026-11-17T13:00:00.000Z</news:publication_date>
+      <news:title>Europe&apos;s Hera Spacecraft Begins Investigating NASA&apos;s Asteroid Crash Site</news:title>
     </news:news>
   </url>
 </urlset>
